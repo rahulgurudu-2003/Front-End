@@ -1,0 +1,57 @@
+<!.doc Type HTML>
+<html>
+<head>
+<title>
+First page
+</title>
+<style>
+.rah{
+    color: red;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <center><h1>Heading Tags</h1></center>
+    <h1> Heading 1 </h1>
+    <h2> Heading 2 </h2>
+    <h3> Heading 3 </h3>
+    <h4> Heading 4 </h4>
+    <h5> Heading 5 </h5>
+    <h6> Heading 6 </h6>
+    <hr>
+    <center><h1>paragraph Tag</h1></center>
+    <p>This is paragraph Tag Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, non maiores beatae mollitia voluptatum voluptatem nisi similique inventore quibusdam odio animi fuga nulla, laborum quo itaque minima at culpa consequuntur tenetur? In eaque nesciunt vero.</p>
+    <hr class="rah">
+    <center>
+        <center><h1>Anchor Tag</h1></center>
+    <a href="http://www.google.com">GOOGLE</a>
+   </center>  
+    <hr> 
+    <br>
+    <center>
+     <center><h1>Img Tag</h1></center>
+    <img src="img.gif" alt="">
+    <hr>
+   </center>
+    <div>
+           <center><h1>Div Tag</h1></center>
+        Division: Div is a block level element and 100% width
+    </div> 
+    <hr>
+    <span>
+        <center><h1>span Tag</h1></center>
+        Span: span is a inline-level which occupes olny some space
+    </span>
+    <hr>
+    <center>
+     <center><h1>Button Tag</h1></center>
+    <button>SUBMIT</button>
+    </center>
+     <hr>
+     <header>Header is a semantic element</header>
+    <section>Section is a Body Semantic element</section>
+    <footer>Footer is a Semantic element</footer>
+</div>
+</body>
+</html>
